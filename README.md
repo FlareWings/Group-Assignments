@@ -1,4 +1,4 @@
-# Group 17 - Assignments Repository
+# Group 1 - Assignments Repository
 
 [![ICTAK](https://telegra.ph/file/b46bdccfc5b3715a88c35.png)](https://ictkerala.org/)
 
@@ -14,12 +14,11 @@ This repo showcases our assignment works of the DSA Certification course provide
 
 ## Group Members
 
-- Akshay K
-- Arun P
+- [Admarsh S Ashok](https://github.com/Admarsh98)
 - [Chandu s](https://github.com/FlareWings)
 - [Chinju Krishna](https://github.com/krishnachinchu)
 - [Jessie James D](https://github.com/jessiejamesd)
-- Sheyaaz A
+- [Sadiya Ahamed](https://github.com/SadiAhamed)
 
 ## Disclaimer
 
